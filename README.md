@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ## I'm a Front-End & React Dev!
 
-- 🔭 I’m currently working on... React 
-- 🌱 I’m currently learning... laravel
+- 🔭 I’m currently working on... React and Flutter
+- 🌱 I’m currently learning... laravel and flutter
 - 👯 I’m looking to collaborate on ... open source project in react and nodejs
 - ⚡ Fun fact: I love to watch Movies, travel to mountains and beaches and play cricket. 
 
