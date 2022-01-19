@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## I'm a Front-End & React Dev!
+## I'm a Front-End Developer!
 
 - 🔭 I’m currently working on... React and Flutter
 - 🌱 I’m currently learning... laravel and flutter
