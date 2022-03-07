@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to watch Movies, travel to mountains and beaches and play cricket. 
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@1b36329a-b7b7-4957-b32e-45e4be07d658/e73297b2-e822-44b3-bdf3-c4e1f94f592c.png" /></a>
+
