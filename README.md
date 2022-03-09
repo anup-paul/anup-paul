@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## I'm a Front-End Developer!
 
-- 🔭 I’m currently working on... React and Flutter
-- 🌱 I’m currently learning... laravel and flutter
-- 👯 I’m looking to collaborate on ... open source project in react and nodejs
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning node js
+- 👯 I’m looking to collaborate on ... open source project in Flutter
 - ⚡ Fun fact: I love to watch Movies, travel to mountains and beaches and play cricket. 
 
 
