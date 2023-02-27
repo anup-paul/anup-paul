@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## I'm a Front-End Developer!
+## I'm a Mobile Application Developer!
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning node js
